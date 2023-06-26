@@ -6,7 +6,7 @@ To install Django Bakery, please follow these steps:
 
 Make sure you have Python 3 installed on your system. You can download Python from the official website: Python.org.
 * Clone the Django Bakery repository from GitHub:
-  * git clone https://github.com/ashvtosh/Django-Project.git
+  * `git clone https://github.com/ashvtosh/Django-Project.git`
 * Navigate to the project directory:
   * cd Django-Project
 * Create a virtual environment to isolate the project's dependencies:
