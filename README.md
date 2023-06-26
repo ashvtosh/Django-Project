@@ -1,11 +1,11 @@
-# Django Bakery Web Application
-Welcome to the Django Bakery Web Application! This web application allows you to manage and showcase your bakery products online. With Django Bakery, you can create, update, and delete bakery items, manage customer orders, and track inventory, all from a user-friendly interface.
+# Django Project Web Application
+Welcome to the Django Project Web Application! This web application allows you to manage and showcase your bakery products online. With Django Project, you can create, update, and delete bakery items, manage customer orders, and track inventory, all from a user-friendly interface.
 
 ## Installation
-To install Django Bakery, please follow these steps:
+To install Django Project, please follow these steps:
 
 Make sure you have Python 3 installed on your system. You can download Python from the official website: Python.org.
-* Clone the Django Bakery repository from GitHub:
+* Clone the Django Project repository from GitHub:
   * `git clone https://github.com/ashvtosh/Django-Project.git`
 * Navigate to the project directory:
   * `cd Django-Project`
@@ -35,7 +35,7 @@ Start the development server by running the following command:
   * Inventory Tracking: Keep track of your bakery item inventory. You can view the current stock levels and receive notifications when items run low.
   * User Management: Manage user accounts and permissions. You can create new user accounts, assign roles, and restrict access to certain areas of the application.
   * Settings: Configure various settings for the Django Bakery application, such as email notifications, payment gateway integration, and more.
-Feel free to explore the Django Administration Portal and utilize its features to manage your bakery web application efficiently.
+Feel free to explore the Django Administration Portal and utilize its features to manage your project web application efficiently.
 
 ## License
 Django Project is released under the MIT License. Feel free to use, modify, and distribute the application according to the terms of the license.
