@@ -1,4 +1,4 @@
-### Django Bakery Web Application
+# Django Bakery Web Application
 Welcome to the Django Bakery Web Application! This web application allows you to manage and showcase your bakery products online. With Django Bakery, you can create, update, and delete bakery items, manage customer orders, and track inventory, all from a user-friendly interface.
 
 ## Installation
